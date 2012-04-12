@@ -1,0 +1,120 @@
+---
+generation: 90
+last_run_time: 1334141542.6915
+tests:
+  t/00_compile.t:
+    elapsed: 0.0634839534759521
+    gen: 88
+    last_pass_time: 1334113533.08625
+    last_result: 0
+    last_run_time: 1334113533.08625
+    last_todo: 0
+    mtime: 1334024045
+    seq: 317
+    total_passes: 2
+  t/01_use.t:
+    elapsed: 0.0614440441131592
+    gen: 88
+    last_pass_time: 1334113533.15464
+    last_result: 0
+    last_run_time: 1334113533.15464
+    last_todo: 0
+    mtime: 1334024045
+    seq: 318
+    total_passes: 2
+  t/02_psgi.t:
+    elapsed: 0.0626440048217773
+    gen: 88
+    last_pass_time: 1334113533.22446
+    last_result: 0
+    last_run_time: 1334113533.22446
+    last_todo: 0
+    mtime: 1334024045
+    seq: 319
+    total_passes: 2
+  t/03_httpresponse.t:
+    elapsed: 0.0954380035400391
+    gen: 88
+    last_pass_time: 1334113533.32711
+    last_result: 0
+    last_run_time: 1334113533.32711
+    last_todo: 0
+    mtime: 1334024045
+    seq: 320
+    total_passes: 2
+  t/04_exception.t:
+    elapsed: 0.131536960601807
+    gen: 88
+    last_pass_time: 1334113533.46889
+    last_result: 0
+    last_run_time: 1334113533.46889
+    last_todo: 0
+    mtime: 1334024045
+    seq: 321
+    total_passes: 2
+  t/05_plack.t:
+    elapsed: 0.0891990661621094
+    gen: 88
+    last_pass_time: 1334113533.5651
+    last_result: 0
+    last_run_time: 1334113533.5651
+    last_todo: 0
+    mtime: 1334024045
+    seq: 322
+    total_passes: 2
+  xt/01_podspell.t:
+    elapsed: 0.171375036239624
+    gen: 90
+    last_pass_time: 1334141536.95855
+    last_result: 0
+    last_run_time: 1334141536.95855
+    last_todo: 0
+    mtime: 1334024045
+    seq: 333
+    total_passes: 10
+  xt/02_perlcritic.t:
+    elapsed: 2.61952614784241
+    gen: 90
+    last_pass_time: 1334141539.58459
+    last_result: 0
+    last_run_time: 1334141539.58459
+    last_todo: 0
+    mtime: 1334024045
+    seq: 334
+    total_passes: 10
+  xt/03_pod.t:
+    elapsed: 0.0764498710632324
+    gen: 90
+    last_pass_time: 1334141539.66807
+    last_result: 0
+    last_run_time: 1334141539.66807
+    last_todo: 0
+    mtime: 1334024045
+    seq: 335
+    total_passes: 10
+  xt/04_pod_coverage.t:
+    elapsed: 0.191170930862427
+    gen: 90
+    last_fail_time: 1334059076.22639
+    last_pass_time: 1334141539.86651
+    last_result: 0
+    last_run_time: 1334141539.86651
+    last_todo: 0
+    mtime: 1334024045
+    seq: 336
+    total_failures: 2
+    total_passes: 8
+  xt/05_kwalitee.t:
+    elapsed: 2.81711792945862
+    gen: 90
+    last_fail_time: 1334059210.1705
+    last_pass_time: 1334141542.69047
+    last_result: 0
+    last_run_time: 1334141542.69047
+    last_todo: 0
+    mtime: 1334059066
+    seq: 337
+    total_failures: 5
+    total_passes: 5
+version: 1
+...
