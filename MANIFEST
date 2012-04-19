@@ -1,7 +1,5 @@
-.carton/02packages.details.txt
 .gitignore
 .prove
-carton.lock
 Changes
 inc/Module/Install.pm
 inc/Module/Install/AuthorTests.pm

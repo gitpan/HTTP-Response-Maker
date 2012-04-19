@@ -4,7 +4,7 @@ use warnings;
 use 5.008_001;
 use Class::Load qw(load_class);
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 our @DefaultHeaders = (
     'Content-Type' => 'text/html; charset=utf-8'
